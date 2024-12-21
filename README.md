@@ -21,4 +21,5 @@ Güvenlik ve Yetkilendirme: Sistem, kullanıcıların yetkilerine göre erişim 
 # Kullanılan Teknolojiler
 
 WinForms .NET Framework
+
 PostgreSQL 
