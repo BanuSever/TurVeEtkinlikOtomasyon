@@ -8,7 +8,7 @@ Rezervasyon İşlemleri: Kullanıcılar, sistemde listelenen turlara rezervasyon
 
 Kullanıcı Rolleri:
 
-*Yönetici*: Sistem genelindeki tüm rezervasyonları tarih ve kullanıcı bilgileriyle birlikte görüntüleyebilir.
+*Yönetici*: Sistem genelindeki tüm rezervasyonları tarih ve kullanıcı bilgileriyle birlikte görüntüleyebilir. Tüm üyeleri görüntüleyebilir. Üyeleri ve rezervasyonları filtreleyebilir.
 
 *Kullanıcı*: Sadece kendi rezervasyonlarını görebilir, yeni rezervasyonlar oluşturabilir.
 
