@@ -1,9 +1,0 @@
-PostgreSQL
-
-Kullanıcılar ve Şifreler
-
-1- admin / 123456
-2- ceo / 123456
-3- muhasebe / 123456
-4- herhangi üye -> ibram@hotmail.com / 123456
-
